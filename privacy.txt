@@ -1,1 +1,4 @@
-
+1. Some discord messages from servers the bot is in may be collected for catching server raides, checking against tos, and searching for in-game cheating. These messages are stored locally and only I will see them, except in the event of clear cheats, in which case the appropriate messages will be shared with sb admins and other related parties. Users may opt-out of message caching by direct request, and may request cached messages for their server at any time.
+2. Any sb mods that are entered to be run through the custom command will be stored for future use and checking for server abuse.
+3. Server images may be stored for use by ranked duel backgrounds.
+4. No gathered messages will be sold, or shared outside of sb related discord servers

@@ -1,0 +1,19 @@
+To use this bot, you must fulfill the following requirements:
+1. You must have a valid ECP when using the bot to host games. This bot is
+not to allow players without an ECP to access functions that they would
+have to pay for. (as per rule two here:
+https://github.com/bhpsngum/starblast-modding)
+2. At least one admin member of the server must be in my testing server to
+more easily communicate changes and bans.
+3. I must be in the server the bot is in for debugging and anti-spam
+purposes.
+Using the bot without fulfilling these requirements may result in a user or
+server hosting blacklist.
+You or your server may also be put on the blacklist for:
+1. Excessive in game cheating
+2. Repeated complaints of toxic gameplay (i.e. interrupting duels)
+3. Using commands the connect to the starblast server in some way in
+quick succession (i.e. running /newsb in multiple servers at the same
+time, repeatedly calling /status)
+4. Use or creation of any other exploits to circumvent previous rules or the
+blacklist
